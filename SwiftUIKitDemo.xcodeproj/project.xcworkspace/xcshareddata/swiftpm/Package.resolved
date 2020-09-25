@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SwiftUIKit",
+        "repositoryURL": "https://github.com/MojtabaHs/SwiftUIKit",
+        "state": {
+          "branch": null,
+          "revision": "63768c2248d0e082e3bbd254711f3d979a1c8a7f",
+          "version": "0.1.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

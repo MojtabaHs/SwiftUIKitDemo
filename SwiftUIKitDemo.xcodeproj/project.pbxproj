@@ -38,6 +38,7 @@
 			children = (
 				C4FC9554251CB762003224FE /* SwiftUIKitDemo */,
 				C4FC9553251CB762003224FE /* Products */,
+				C4FC9578251CB89A003224FE /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -69,6 +70,13 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
+		C4FC9578251CB89A003224FE /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -85,6 +93,8 @@
 			dependencies = (
 			);
 			name = SwiftUIKitDemo;
+			packageProductDependencies = (
+			);
 			productName = SwiftUIKitDemo;
 			productReference = C4FC9552251CB762003224FE /* SwiftUIKitDemo.app */;
 			productType = "com.apple.product-type.application";
@@ -268,7 +278,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_ASSET_PATHS = "\"SwiftUIKitDemo/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "SwiftUIKitDemo/Preview\\ Content";
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = SwiftUIKitDemo/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
@@ -289,7 +299,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_ASSET_PATHS = "\"SwiftUIKitDemo/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "SwiftUIKitDemo/Preview\\ Content";
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = SwiftUIKitDemo/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
